@@ -1,0 +1,25 @@
+﻿<Window x:Class="Assignment4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="138,23,0,0" TextWrapping="Wrap" Text="Appointments" VerticalAlignment="Top" Cursor="None" FontWeight="Bold" FontSize="20"/>
+        <ComboBox x:Name="appointmentTimeSlot" HorizontalAlignment="Left" Margin="177,77,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,80,0,0" TextWrapping="Wrap" Text="Select Time Slot" VerticalAlignment="Top" RenderTransformOrigin="1.526,0.501"/>
+        <Button x:Name="displayButton" Content="Display Appointments" HorizontalAlignment="Left" Margin="177,272,0,0" VerticalAlignment="Top" Width="129" Click="display_click"/>
+        <Button x:Name="bookButton" Content="Book Appointment" HorizontalAlignment="Left" Margin="43,272,0,0" VerticalAlignment="Top" Width="115" Click="book_click"/>
+        <ComboBox x:Name="patientTypeList" HorizontalAlignment="Left" Margin="177,114,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,114,0,0" TextWrapping="Wrap" Text="Select patient Type" VerticalAlignment="Top" RenderTransformOrigin="1.526,0.501"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,151,0,0" TextWrapping="Wrap" Text="Enter Patient Name" VerticalAlignment="Top" RenderTransformOrigin="1.526,0.501"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,185,0,0" TextWrapping="Wrap" Text="Enter Village Name" VerticalAlignment="Top" RenderTransformOrigin="1.526,0.501"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,222,0,0" TextWrapping="Wrap" Text="Enter Age" VerticalAlignment="Top" RenderTransformOrigin="1.526,0.501"/>
+        <TextBox x:Name="patientName" HorizontalAlignment="Left" Height="23" Margin="177,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" UndoLimit="101"/>
+        <TextBox x:Name="villageName" HorizontalAlignment="Left" Height="23" Margin="177,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" UndoLimit="101" RenderTransformOrigin="0.317,2.739"/>
+        <TextBox x:Name="age" HorizontalAlignment="Left" Height="23" Margin="177,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" UndoLimit="101" RenderTransformOrigin="0.317,2.739"/>
+        <TextBlock x:Name="appointmentData" HorizontalAlignment="Left" Margin="352,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="318" Width="412"/>
+    </Grid>
+</Window>

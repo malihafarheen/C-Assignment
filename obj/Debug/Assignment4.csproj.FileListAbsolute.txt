@@ -1,0 +1,45 @@
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\MainWindow.g.cs
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\App.g.cs
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.cache
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.lref
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\MainWindow.baml
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.g.resources
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\rahul.khunt\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\MainWindow.g.cs
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\App.g.cs
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.cache
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.lref
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\MainWindow.baml
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.g.resources
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\maliha\Desktop\softweare development\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\maliha\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\maliha\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\maliha\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\MainWindow.g.cs
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\App.g.cs
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.cache
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.lref
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\MainWindow.baml
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.g.resources
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\maliha\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
